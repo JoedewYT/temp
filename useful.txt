@@ -1,0 +1,5 @@
+Root/usr/share/plymouth/themes/mint-logo
+
+sudo add-apt-repository ppa:linuxthebest.net/remastersys
+sudo apt update
+sudo apt install remastersys-gtk
